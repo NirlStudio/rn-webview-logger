@@ -1,0 +1,33 @@
+{
+  "name": "rn-webview-logger",
+  "version": "0.1.1",
+  "description": "forward logs in a WebView to react-native side Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirlStudio/rn-webview-logger.git"
+  },
+  "keywords": [
+    "react-native",
+    "webview",
+    "log",
+    "console"
+  ],
+  "author": "Leevi Li",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NirlStudio/rn-webview-logger/issues"
+  },
+  "homepage": "https://github.com/NirlStudio/rn-webview-logger#readme",
+  "standard": {
+    "globals": [
+      "__DEV__"
+    ]
+  },
+  "dependencies": {
+    "rn-webview-messaging": "^0.2.1"
+  }
+}
