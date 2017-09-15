@@ -1,6 +1,6 @@
 {
   "name": "rn-webview-logger",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "description": "forward logs in a WebView to react-native side Edit",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     ]
   },
   "dependencies": {
-    "rn-webview-messaging": "^0.2.1"
+    "rn-webview-messaging": "^0.2.2"
   }
 }
